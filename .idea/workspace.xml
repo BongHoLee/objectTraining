@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3095b7fa-5f01-427e-b66f-d0174c36248a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tobe/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tobe/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tobe/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tobe/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tobe/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tobe/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tobe/TicketSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fnl/Audience.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fnl/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fnl/Invitation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fnl/Theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fnl/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fnl/TicketOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fnl/TicketSeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/asis/Theater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/asis/Theater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tobe/TicketSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tobe/TicketSeller.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,31 +31,31 @@
   </component>
   <component name="ProjectId" id="1rQA1bawMciR0dxH27GUveK4X2k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/tobe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/fnl" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="tobe" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\objectTraining\src\fnl" />
+      <recent name="C:\objectTraining\src\final" />
       <recent name="C:\DEV-Studio\objectTraining\src\tobe" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -68,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618897725310</updated>
       <workItem from="1618897729308" duration="9006000" />
+      <workItem from="1618925667639" duration="1342000" />
     </task>
     <servers />
   </component>
@@ -79,10 +80,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1618925723376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618925723376" />
   </component>
 </project>
