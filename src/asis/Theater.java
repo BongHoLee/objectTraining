@@ -1,6 +1,6 @@
 package asis;
 
-// 공연장
+// 소극장
 public class Theater {
   private TicketSeller ticketSeller;
 
@@ -9,13 +9,16 @@ public class Theater {
   }
 
   public void enter(Audience audience) {
-    if (audience.getBag().hasInvitation()) {
+    if (audience.getBag().hasInvitation())
+    {
       Ticket ticket = ticketSeller.getTicketOffice().getTicket();
       audience.getBag().setTicket(ticket);
-    } else {
+    }
+    else
+    {
       Ticket ticket = ticketSeller.getTicketOffice().getTicket();
       audience.getBag().minusAmount(ticket.getFee());
-      
+
       ticketSeller.getTicketOffice().plusAmount(ticket.getFee());
       audience.getBag().setTicket(ticket);
     }
